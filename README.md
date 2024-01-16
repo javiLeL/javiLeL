@@ -3,7 +3,7 @@
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning DAM(cross-platform application development)
 <!-- - 💞️ I’m looking to collaborate on ... -->
-- 📫 How to reach me, (*but I dont now why you do that*)
+- 📫 How to reach me, (*but I don't know why you would do that*)
   - email: javier212002@gmail.com
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
