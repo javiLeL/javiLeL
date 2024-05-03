@@ -34,7 +34,7 @@
 ![Static Badge](https://img.shields.io/badge/JSON-%23000000?style=flat-square&logo=json&logoColor=white)![Static Badge](https://img.shields.io/badge/XML-%233366CC?style=flat-square&logo=htmx&logoColor=white)![Static Badge](https://img.shields.io/badge/SQL-%23C925D1?style=flat-square&logo=amazondocumentdb&logoColor=white)
 
 ## My Workspace *(My PC)*
-
+<p>
 <a href="https://github.com/javiLeL/arch-dotfiles">
     <img alt="Static Badge" src="https://img.shields.io/badge/Arch_Linux-%231793D1?style=flat-square&logo=archlinux&logoColor=white">
 </a>
@@ -42,6 +42,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/RAM-16GB-%231793D1?style=flat-square&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/System_Type-64_Bits-%231793D1?style=flat-square">
 <img alt="Static Badge" src="https://img.shields.io/badge/NVIDIA-3050TI-%2376B900?style=flat-square&logo=nvidia&logoColor=%2376B900">
+</p>
 
 ## About Me...
 
