@@ -1,5 +1,5 @@
 <div style="display: flex;justify-content: center;align-items: center;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=35C735&center=true&random=false&width=435&lines=Hello+World;My+Name+Is+Javi.LeL;I'm+a+Developer;Feel+Free+to+get+in+touch!;Nice+to+meet+You!!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=35C735&center=false&random=false&width=435&lines=Hello+World;My+Name+Is+Javi.LeL;I'm+a+Developer;Feel+Free+to+get+in+touch!;Nice+to+meet+You!!" alt="Typing SVG" />
 </div>
 
 # I'm Javier Gonzalo 
