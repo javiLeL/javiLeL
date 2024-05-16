@@ -14,7 +14,7 @@
 ### A Student *not for long* ;)
 
 ## Some Software That I Use
-![Static Badge](https://img.shields.io/badge/editor-VScodium-%232F80ED?logo=vscodium&logoColor=%232F80ED) ![Static Badge](https://img.shields.io/badge/Browser-Firefox-%23FF7139?logo=firefoxbrowser&logoColor=%23FF7139)  ![Static Badge](https://img.shields.io/badge/Knowledge_Base-Obsidian-%237C3AED?logo=obsidian&logoColor=%237C3AED) ![Static Badge](https://img.shields.io/badge/Version_Manager-Git-%23F05032?logo=git&logoColor=%23F05032) ![Static Badge](https://img.shields.io/badge/Save_Code-Git_Hub-%23181717?logo=github&logoColor=%23181717) ![Static Badge](https://img.shields.io/badge/Data_Base-MariaDB-%23003545?logo=mariadb&logoColor=%23003545) ![Static Badge](https://img.shields.io/badge/API-Postman-%23FF6C37?logo=postman&logoColor=%23FF6C37) ![Static Badge](https://img.shields.io/badge/Screen_Recorder-OBS_Studio-%23302E31?logo=obsstudio&logoColor=%23302E31) ![Static Badge](https://img.shields.io/badge/Android_Dev-Android_Studio-%233DDC84?style=flat-square&logo=androidstudio&logoColor=%233DDC84)
+[![Static Badge](https://img.shields.io/badge/editor-VScodium-%232F80ED?logo=vscodium&logoColor=%232F80ED)](https://vscodium.com/) [![Static Badge](https://img.shields.io/badge/Browser-Firefox-%23FF7139?logo=firefoxbrowser&logoColor=%23FF7139)](https://www.mozilla.org/es-ES/firefox/new/)  [![Static Badge](https://img.shields.io/badge/Knowledge_Base-Obsidian-%237C3AED?logo=obsidian&logoColor=%237C3AED)](https://obsidian.md/) [![Static Badge](https://img.shields.io/badge/Version_Manager-Git-%23F05032?logo=git&logoColor=%23F05032)](https://git-scm.com/) [![Static Badge](https://img.shields.io/badge/Data_Base-MariaDB-%23003545?logo=mariadb&logoColor=%23003545)](https://mariadb.org/) [![Static Badge](https://img.shields.io/badge/API-Postman-%23FF6C37?logo=postman&logoColor=%23FF6C37)](https://www.postman.com/) [![Static Badge](https://img.shields.io/badge/Screen_Recorder-OBS_Studio-%23302E31?logo=obsstudio&logoColor=%23302E31)](https://obsproject.com/) [![Static Badge](https://img.shields.io/badge/Android_Dev-Android_Studio-%233DDC84?style=flat-square&logo=androidstudio&logoColor=%233DDC84)](https://developer.android.com/studio?hl=es-419)
 
 ## Languages That I Know
 
@@ -34,13 +34,14 @@
 
 ## My Workspace *(My PC)*
 <p>
-<a href="https://github.com/javiLeL/arch-dotfiles">
+
+<a class=nodeco href="https://github.com/javiLeL/arch-dotfiles">
     <img alt="Static Badge" src="https://img.shields.io/badge/Arch_Linux-%231793D1?style=flat-square&logo=archlinux&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Intel-Core_i5_11th_Gen-%231793D1?style=flat-square&logo=intel&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/RAM-16GB-%231793D1?style=flat-square&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/System_Type-64_Bits-%231793D1?style=flat-square">
+    <img alt="Static Badge" src="https://img.shields.io/badge/NVIDIA-3050TI-%2376B900?style=flat-square&logo=nvidia&logoColor=%2376B900">
 </a>
-<img alt="Static Badge" src="https://img.shields.io/badge/Intel-Core_i5_11th_Gen-%231793D1?style=flat-square&logo=intel&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/RAM-16GB-%231793D1?style=flat-square&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/System_Type-64_Bits-%231793D1?style=flat-square">
-<img alt="Static Badge" src="https://img.shields.io/badge/NVIDIA-3050TI-%2376B900?style=flat-square&logo=nvidia&logoColor=%2376B900">
 </p>
 
 ## About Me...
